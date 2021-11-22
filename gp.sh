@@ -250,7 +250,7 @@ case $CLIENTOS in
 					<ProductInfo>
 						<Prod name="IPTables" version="1.8.4" vendor="IPTables">
 						</Prod>
-						<is-enabled>no</is-enabled>
+						<is-enabled>yes</is-enabled>
 					</ProductInfo>
 				</entry>
 				<entry>
